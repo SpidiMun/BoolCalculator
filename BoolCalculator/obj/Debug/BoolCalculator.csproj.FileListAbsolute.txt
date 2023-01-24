@@ -1,0 +1,15 @@
+C:\RepositoryForCSharp\BoolCalculator\BoolCalculator\bin\Debug\BoolCalculator.exe.config
+C:\RepositoryForCSharp\BoolCalculator\BoolCalculator\bin\Debug\BoolCalculator.exe
+C:\RepositoryForCSharp\BoolCalculator\BoolCalculator\bin\Debug\BoolCalculator.pdb
+C:\RepositoryForCSharp\BoolCalculator\BoolCalculator\obj\Debug\MainWindow.g.cs
+C:\RepositoryForCSharp\BoolCalculator\BoolCalculator\obj\Debug\App.g.cs
+C:\RepositoryForCSharp\BoolCalculator\BoolCalculator\obj\Debug\BoolCalculator_MarkupCompile.cache
+C:\RepositoryForCSharp\BoolCalculator\BoolCalculator\obj\Debug\BoolCalculator_MarkupCompile.lref
+C:\RepositoryForCSharp\BoolCalculator\BoolCalculator\obj\Debug\MainWindow.baml
+C:\RepositoryForCSharp\BoolCalculator\BoolCalculator\obj\Debug\BoolCalculator.g.resources
+C:\RepositoryForCSharp\BoolCalculator\BoolCalculator\obj\Debug\BoolCalculator.Properties.Resources.resources
+C:\RepositoryForCSharp\BoolCalculator\BoolCalculator\obj\Debug\BoolCalculator.csproj.GenerateResource.cache
+C:\RepositoryForCSharp\BoolCalculator\BoolCalculator\obj\Debug\BoolCalculator.csproj.CoreCompileInputs.cache
+C:\RepositoryForCSharp\BoolCalculator\BoolCalculator\obj\Debug\BoolCalculator.exe
+C:\RepositoryForCSharp\BoolCalculator\BoolCalculator\obj\Debug\BoolCalculator.pdb
+C:\RepositoryForCSharp\BoolCalculator\BoolCalculator\obj\Debug\BoolCalculator.csproj.AssemblyReference.cache
